@@ -48,9 +48,11 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 
 ⸻
 
->“O pensamento científico é um ato de liberdade.” (“Scientific thinking is an act of freedom.”)
+⚡ Fun fact
 
-Ruy Luís Gomes
+>“O pensamento científico é um ato de liberdade.” (“Scientific thinking is an act of freedom.”)
+>
+> Ruy Luís Gomes - Portuguese mathematician
 
 ---
 I’m always open to new opportunities and collaborations, so feel free to reach out if you’d like to connect or discuss potential projects.
