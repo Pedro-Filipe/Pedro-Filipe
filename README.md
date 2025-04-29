@@ -42,7 +42,7 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 
 ## 📫 How to Reach Me
 
-- 🌐 [Imperial College Website](https://profiles.imperial.ac.uk/p.f.ferreira05/about)
+- 🌐 [Imperial College personal page](https://profiles.imperial.ac.uk/p.f.ferreira05/about)
 - ✉️ Email: <p.f.ferreira05@imperial.ac.uk>
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=fk9ywHUAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-0436-3496)
 
