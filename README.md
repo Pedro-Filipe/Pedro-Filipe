@@ -40,7 +40,7 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 
 ⸻
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 
 - 🌐 [Imperial College Website](https://profiles.imperial.ac.uk/p.f.ferreira05/about)
 - ✉️ Email: <p.f.ferreira05@imperial.ac.uk>
@@ -48,16 +48,16 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 
 ⸻
 
-⚡ Fun Fact
+>“O pensamento científico é um ato de liberdade.” (“Scientific thinking is an act of freedom.”)
 
-“The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.” — Albert Einstein
+Ruy Luís Gomes
 
 ---
 I’m always open to new opportunities and collaborations, so feel free to reach out if you’d like to connect or discuss potential projects.
 
 # CV
 
-## 🎒Work experience
+## 🎒 Work experience
 
 | | | |
 |---|---|---|
@@ -65,12 +65,30 @@ I’m always open to new opportunities and collaborations, so feel free to reach
 |2012| Imperial College, London | Research Associate|
 |2011| Royal Brompton Hospital and Imperial College, London | Assistant Researcher|
 
-## 🎓Education
+## 🎓 Education
 
 | | | |
 |---|---|---|
 |2009| Imperial College, London, UK | PhD in Myocardial Perfusion Imaging with Magnetic Resonance |
 |2005| King's College, London, UK | MSc in Medical Engineering and Physics |
 |2004| Porto Faculty of Sciences, Portugal | First Degree in Physics / Applied Mathematics (Astrophysics)|
+
+## 📃 Selection of Peer Reviewed Publication
+
+Citations 2832 / h-index 25 / i10-index 37 (data from [Google Scholar](https://scholar.google.com/citations?user=fk9ywHUAAAAJ&hl=en))
+
+- Ferreira, P.F., et al. (2022), **Accelerating Cardiac Diffusion Tensor Imaging With a U-Net Based Model: Toward Single Breath-Hold.** J Magn Reson Imaging, 56: 1691-1704. [link](https://doi.org/10.1002/jmri.28199)
+
+- Ferreira PF, et al. **Automating in vivo cardiac diffusion tensor postprocessing with deep learning–based segmentation.** Magn Reson Med. 2020; 84: 2801–2814. [link](https://doi.org/10.1002/mrm.28294)
+
+- Wang, F. et al. (2024). **Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions.** In: Linguraru, M.G., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2024. MICCAI 2024. Lecture Notes in Computer Science, vol 15002. Springer, Cham. [link](https://doi.org/10.1007/978-3-031-72069-7_60)
+
+- Ramyah Rajakulasingam, Pedro F Ferreira, et al. **Characterization of dynamic changes in cardiac microstructure after reperfused ST-elevation myocardial infarction by biphasic diffusion tensor cardiovascular magnetic resonance**, European Heart Journal, Volume 46, Issue 5, 1 February 2025, Pages 454–469, [link](https://doi.org/10.1093/eurheartj/ehae667).
+
+- Khalique Z, Ferreira PF, et al. **Diffusion Tensor Cardiovascular Magnetic Resonance Imaging: A Clinical Perspective. JACC Cardiovasc Imaging.** 2020; 13: 1235-1255. [link](https://doi.org/10.1016/j.jcmg.2019.07.016)
+
+- Nielles-Vallespin S, Scott A, Ferreira P, et al. **Cardiac Diffusion: Technique and Practical Applications. J Magn Reson Imaging.** 2020; 52: 348-368. [link](https://onlinelibrary.wiley.com/doi/10.1002/jmri.26912)
+
+- Nielles-Vallespin S, Khalique Z, Ferreira PF, et al. **Assessment of Myocardial Microstructural Dynamics by In Vivo Diffusion Tensor Cardiac Magnetic Resonance.** J Am Coll Cardiol. 2017; 69: 661-676. [link](https://doi.org/10.1016/j.jacc.2016.11.051)
 
 Thanks for stopping by! Have a great day! 😊
