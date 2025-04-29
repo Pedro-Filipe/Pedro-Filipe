@@ -32,9 +32,9 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 - [cDTI DICOM to NIFTI](https://github.com/ImperialCollegeLondon/cdti_data_export) - Conversion tool for cDTI DICOMs to NIFTI files.
 - [STEAM U-Net segmentation](https://github.com/Pedro-Filipe/DT_CMR_short_axis_conv_net) - Automatic segmentation and classification of cardiovascular images with convolutional neural networks removing the need for an expert clinician to manually catalog and segment diffusion images. [Publication link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28294) (Python, TensorFlow).
 
-### Private
+### Private repositories
 
-- In vivo diffusion tensor prediction with convolutional neural networks: promising approach to minimise the amount of data required in clinical DT-CMR studies. Publication 1 and 2 (Python, TensorFlow, Pytorch).
+- In vivo diffusion tensor prediction with convolutional neural networks: promising approach to minimise the amount of data required in clinical DT-CMR studies. Publications [link 1](https://doi.org/10.1002/jmri.28199) and [link 2](https://doi.org/10.1007/978-3-031-12053-4_8) (Python, TensorFlow, Pytorch).
 - Automatic batch-processing of large histology images, including image registration and extracting the main direction of muscle cells. (MATLAB + Python).
 - In-line post-processing in real-time using the Open Recon platform, providing the operator with DT-CMR results and feedback on scan success/failure during scan acquisition, leading to improved quality and efficiency. (Python, TensorFlow).
 
@@ -82,6 +82,8 @@ Citations 2832 / h-index 25 / i10-index 37 (data from [Google Scholar](https://s
 - Ferreira, P.F., et al. (2022), **Accelerating Cardiac Diffusion Tensor Imaging With a U-Net Based Model: Toward Single Breath-Hold.** J Magn Reson Imaging, 56: 1691-1704. [link](https://doi.org/10.1002/jmri.28199)
 
 - Ferreira PF, et al. **Automating in vivo cardiac diffusion tensor postprocessing with deep learning–based segmentation.** Magn Reson Med. 2020; 84: 2801–2814. [link](https://doi.org/10.1002/mrm.28294)
+
+- Tänzer, M. et al. (2022). **Faster Diffusion Cardiac MRI with Deep Learning-Based Breath Hold Reduction.** In: Medical Image Understanding and Analysis. MIUA 2022. Lecture Notes in Computer Science, vol 13413. Springer, Cham. [link](https://doi.org/10.1007/978-3-031-12053-4_8)
 
 - Wang, F. et al. (2024). **Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions.** In: Linguraru, M.G., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2024. MICCAI 2024. Lecture Notes in Computer Science, vol 15002. Springer, Cham. [link](https://doi.org/10.1007/978-3-031-72069-7_60)
 
