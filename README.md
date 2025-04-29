@@ -28,8 +28,8 @@ Outside of work, I’m a proud dad and an enthusiastic amateur photographer. I�
 
 ### Public
 
-- [INDI](https://github.com/ImperialCollegeLondon/INDI) - Post-processing toolbox for Diffusion Tensor Imaging.
-- [cDTI DICOM to NIFTI](https://github.com/ImperialCollegeLondon/cdti_data_export) - Conversion tool for cDTI DICOMs to NIFTI files.
+- ⭐️ [INDI](https://github.com/ImperialCollegeLondon/INDI) - Post-processing toolbox for cardiac in-vivo diffusion tensor imaging.
+- [cDTI DICOM to NIFTI](https://github.com/ImperialCollegeLondon/cdti_data_export) - Tool for converting cDTI DICOMs to NIFTI files with anonimysation options.
 - [STEAM U-Net segmentation](https://github.com/Pedro-Filipe/DT_CMR_short_axis_conv_net) - Automatic segmentation and classification of cardiovascular images with convolutional neural networks removing the need for an expert clinician to manually catalog and segment diffusion images. [Publication link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28294) (Python, TensorFlow).
 
 ### Private repositories
